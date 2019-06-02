@@ -1,9 +1,9 @@
 //@Rotor Wirings 
 public class WiringRotors {
-	String RotorI ;
-	String RotorII ;
-	String RotorIII ;
-	String Reflector ;
+	String RotorI;
+	String RotorII;
+	String RotorIII;
+	String Reflector;
 
 	public WiringRotors(){
 		RotorI  = " EKMFLGDQVZNTOWYHXUSPAIBRCJ";	

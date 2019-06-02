@@ -61,7 +61,8 @@ public class Steckerverbindungen {
 					TF[i] = false;
 				}
 				if (b.length > 13) {
-					System.out.println("You can enter 13 dual group! ");
+					// its not necessary because of its already controlled same and not english characters
+					System.out.println("You can enter 13 dual group! "); 
 					FT = false;
 					ct=true;
 					break;
